@@ -26,7 +26,7 @@
 <script setup>
 
 import { Star } from '@element-plus/icons-vue';
-import { ElMessage, ElMessageBox } from 'element-plus';
+import {  ElMessageBox } from 'element-plus';
 
 const props = defineProps({
   product: {

@@ -1,5 +1,5 @@
 import request from './config';
-import axios from 'axios';
+
 
 // 获取商品列表
 export const getProducts = (params) => {
